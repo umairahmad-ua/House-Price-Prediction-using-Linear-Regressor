@@ -1,5 +1,5 @@
 # House-Price-Prediction-using-Linear-Regressor
-Download the Dataset
-Provide the file path and in the python code
-Excute each cell by shit+enter
-Excute the both .ipynb files for comparison 
+1)Download the Dataset
+2)Provide the file path in the python code
+3)Excute each cell by shit+enter
+4)Excute the both .ipynb files for comparison 
